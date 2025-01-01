@@ -11,6 +11,7 @@ An investigation on the red and blue shift od light wrt Earth by the use of MATL
 ## Star Plots (MATLab Reference)
 ![](https://github.com/msizimkhize/Stellar-Motion-MATLAB-Project/blob/main/Star%20Plots.png?raw=true)
 
+***
 ## Resources
 [1]Smarandache, F. (2017). Redshift and Blueshift are due to the Medium Composition. NASA ADS, [online] 2017, p.L1.023. Available at: https://ui.adsabs.harvard.edu/abs/2017APS..APR.L1023S/abstract [Accessed 18 Jun. 2023].
 [2] MATLAB R2022a (2023). MaathWorks.
