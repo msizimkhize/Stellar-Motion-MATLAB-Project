@@ -16,3 +16,8 @@ An investigation on the red and blue shift of light w.r.t. Earth by the use of M
 [1]Smarandache, F. (2017). Redshift and Blueshift are due to the Medium Composition. NASA ADS, [online] 2017, p.L1.023. Available at: https://ui.adsabs.harvard.edu/abs/2017APS..APR.L1023S/abstract [Accessed 18 Jun. 2023].
 
 [2] MATLAB R2022a (2023). MathWorks.
+
+***
+### Reach Out on LinkedIn
+
+[![](https://raw.githubusercontent.com/msizimkhize/-South-African-Crime-Statistics-Comparative-Analysis-Project/1f3d9ebec740ae97c9ac54fcd63315042bd8cc68/IMG/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e.svg)](https://www.linkedin.com/in/msizimkhize/)
