@@ -1,6 +1,6 @@
 # Stellar Motion: MATLAB Project
 
-An investigation on the red and blue shift od light wrt Earth by the use of MATLAB commands and formulae.
+An investigation on the red and blue shift of light w.r.t. Earth by the use of MATLAB commands and formulae.
 
 ***
 ## Context
