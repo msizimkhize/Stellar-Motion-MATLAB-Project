@@ -8,7 +8,7 @@ An investigation on the red and blue shift of light w.r.t. Earth by the use of M
 
 
 ***
-## Star Plots (MATLab Reference)
+## Star Plots (MATLAB Reference)
 ![](https://github.com/msizimkhize/Stellar-Motion-MATLAB-Project/blob/main/Star%20Plots.png?raw=true)
 
 ***
