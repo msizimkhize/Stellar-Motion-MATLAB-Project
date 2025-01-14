@@ -1,5 +1,7 @@
 # Stellar Motion: MATLAB Project
 
+![](https://github.com/msizimkhize/Stellar-Motion-MATLAB-Project/blob/main/IMG/astronomy-pictures-1440-x-810.jpg?raw=true)
+
 An investigation on the red and blue shift of light w.r.t. Earth by the use of MATLAB commands and formulae.
 
 ***
